@@ -5,6 +5,7 @@
 #include <time.h>
 
 using namespace std;
+//.jsjsjsjsjs
 //LALALAAAA
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
